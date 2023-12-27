@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOps/mlops03/mlruns/2/560030d6895a470eb7b9bcf5ada6051c/artifacts
+end_time: 1703687400852
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 560030d6895a470eb7b9bcf5ada6051c
+run_uuid: 560030d6895a470eb7b9bcf5ada6051c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703687395999
+status: 3
+tags: []
+user_id: shind
